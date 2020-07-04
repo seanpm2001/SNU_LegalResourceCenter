@@ -1,0 +1,20 @@
+*****
+
+The SNU PFOSS (Private Free Libre Open Source Software) License 1.0
+This license is still being worked on, and is not usable yet
+
+Software under this license must be distributed as free and open source software. All source code must be publically available upon release of software.
+The private phase of the software will last until the owner ends its privacy, and publically releases it, which then, the software will follow the same license, but will no longer be private.
+Private software must be developed secretly. Leaks are not allowed, and can be subject to serious fines. If requested, frequent snapshots of software versions must be created as a method of preservation older versions without leaking.
+
+Compatible with:
+Copyleft - Yes
+Copyright - No
+
+This license must be included with the private software upon release.
+
+License version history
+License 1.0 - March 2nd 2020
+License 1.01 - Coming soon
+
+*****
